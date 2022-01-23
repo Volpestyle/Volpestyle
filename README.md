@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Volpestyle
-- 👀 I’m interested in web apps
-- 🌱 I’m currently learning react and next js!
+- 👀 I’m interested in web apps!
+- 🌱 I’m currently learning react and next js
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: volpestyle@gmail.com
 
